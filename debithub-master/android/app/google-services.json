@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642124569722",
+    "project_id": "debithub",
+    "storage_bucket": "debithub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642124569722:android:07a42b117f4294d4b1afc3",
+        "android_client_info": {
+          "package_name": "com.projectse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642124569722-gbqcd1iv8olp3npv8l1l64ldn4e6kpp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZHTZETdz_sKfb0NeLRKyWpEfuCS3eLdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642124569722-gbqcd1iv8olp3npv8l1l64ldn4e6kpp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
